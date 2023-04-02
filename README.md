@@ -1,2 +1,2 @@
-# Data_Science_Portfolio
-This is a collection of my data science projects 
+Amazon Web Scraping Project
+In this project use BeautifulSoup and Requests to scrape data from Amazon.
